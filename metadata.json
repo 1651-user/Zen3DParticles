@@ -1,0 +1,7 @@
+{
+  "name": "ZenParticles 3D",
+  "description": "Interactive 3D particle system controlled by hand gestures and AI-generated shapes.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
